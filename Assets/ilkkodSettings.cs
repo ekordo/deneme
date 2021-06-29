@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace lesson1
+namespace lesson
 { 
     [CreateAssetMenu(menuName = "Lesson/Lesson1/Rotate Settings")]
     public class ilkkodSettings : ScriptableObject
